@@ -1,0 +1,23 @@
+1882df4aa7072b42ae5b813c75835d87840a07f043eadd0997296070e5c078fb  ./710-How to check the Hdisk error/000-README.md
+20269c04b7a6bd6ef99a4bc785781c776f82d3bf0c8c8cf2d1ec31e9ca9b1e9d  ./710-How to check the Hdisk error/001-Mac存储故障检查与修复操作指南.md
+bb0027f78189742212d96ac939c75cb31f6ccf3e8e604b50b665741acd355aa4  ./710-How to check the Hdisk error/002-日志判读与故障决策表.md
+485e4caf526da5582878bbfb67e0d87eda1f7007fb40a6841401f5dc54980e43  ./710-How to check the Hdisk error/003-目标机APFS故障修复实录.md
+66c4875f027c76699379b83f7060fcb04387361ddd48d06df44e932012435caa  ./710-How to check the Hdisk error/004-工具与证据使用说明.md
+6ab432a900bb53edc1cc6dc5d3202d5565ac6724c9a18dc106d7b0c15d90b90e  ./710-How to check the Hdisk error/005-检测与修复记录模板.md
+3e2f2d998f9fef5aaf9d225d134d868b51617429630c45899f4d12ac6d84908c  ./830-mac mini4 management windows codex/000-README.md
+694b4578eeb8f84efa288c2d238b13b24736ef23cdb3159a449eeefcaf66bfae  ./830-mac mini4 management windows codex/010-部署与运维操作指南.md
+ba53103be2c858a5e4d82856f5bf8abb0709aee9dfa0544b91dd93d43a32f0ed  ./880-how to control the local windows and mac/000-README.md
+7f298f0cd5b668f79f948fb18c00e3fde971b0a604cb742480c16e34478671b7  ./880-how to control the local windows and mac/010-局域网新电脑接入与维护操作指南.md
+0860090373c22862aad96658d472f42261353464bb25b28b5ba6dddf6ea0f3fa  ./880-how to control the local windows and mac/020-给AI的部署执行手册.md
+7e841cb9e7bd7d2ffd69fdb3b28d46ac5e14a2f3b827e2e965a9e4d6715d6801  ./880-how to control the local windows and mac/030-历史案例与源码出处.md
+de26db401189d09910a798efc94225caa8d7de7fb95f814c39134a8a2c0aae67  ./880-how to control the local windows and mac/040-一条命令长期接入实测-20261105.md
+8778b86f3721013da43d71dbf31fd5a3ea381fa1e264fd9e9252607cdddbdb7e  ./880-how to control the local windows and mac/050-软件安装与使用验收-20261105.md
+fea7861b10ed22c0bba6b87214e6eee420d398f2d1548dc800512f87c2132012  ./880-how to control the local windows and mac/060-长期在线电源设置-20261105.md
+e113f5c6a585563d176097feb011fe0f1b1b98039fb348321d934d02c7d166b5  ./880-how to control the local windows and mac/070-OpenCode-CLI安装与验收-20261105.md
+02971833c8d1a50710ff988a2bae5f7b664a234c78df66fa416130671f731c80  ./880-how to control the local windows and mac/080-Mac-Air接入与软件部署实测-20261105.md
+11ebbcc1151d00df6561817aec8b85bd47da926507d45eb491e0b433106d8192  ./900-windows computer use codex and claude/000-README.md
+4e16cdff2664a59ed2dafe7d70760ee065548ba93c4c6220b61d37d8ce71879d  ./900-windows computer use codex and claude/010-逐台部署手册.md
+4c4de33b819c74bdeb0866ee1f93929e4b7490444e149441a84d4deb99bca612  ./900-windows computer use codex and claude/020-维护排障与换号换节点.md
+62e1c9a36c2817bd8416670cc8205637662b03ff66b658e789e21fc2aa8cda22  ./AGENTS.md
+7b64b614b6747c881fec1f0d6de01957caf2f0da9e76862b9a450318b7446ef2  ./INDEX.md
+e7dc63cfd20fe6cb95007feebd192bab7617e9eddbad5b41047da440ba568635  ./README.md
